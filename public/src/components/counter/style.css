@@ -1,0 +1,27 @@
+button{
+    
+    left: 80px;
+    width: 150px;
+    height: 100px;
+    border-radius: 20%;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    margin-top: 50px;
+    margin-left: 100px;
+    font-family: sans-serif;
+    font-size: 22px;
+    cursor: pointer;
+    
+}
+
+.like{
+
+    background-color: #00c147;
+    color: rgb(0, 72, 0);
+}
+
+.dislike{
+    background-color: #fd1d3f;
+    color: rgb(118, 0, 0);
+
+}
+

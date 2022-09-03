@@ -1,0 +1,114 @@
+
+.card {
+       
+        width: 580px;
+        min-height: 900px;
+        background-color: whitesmoke;
+        left: 60px;
+        padding: 40px;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+        margin-top: 120px;
+        border-radius: 10px;
+        margin-left: 25px;
+        
+       
+    } 
+    
+#ImagenPerfil {
+        width: 575px;
+        top: 145px;
+        margin-top: 10px;
+        
+}
+
+  
+.imagenChat{
+    width: 60px;
+    top: 840px;
+    margin-right: 160px;
+    
+
+}
+
+.imagenAjustes{
+    width: 50px;
+    top: 840px;
+
+}
+
+.imagenLogo{
+    
+    width: 160px;
+    top: 840px;
+    margin-right: 130px; 
+}
+
+
+
+p{
+    font-family: sans-serif;
+    font-size:larger;
+    text-align: justify;
+    line-height: 30px;
+    
+}
+
+#nombreUsuario{
+    right: 50px;
+    position: relative;
+    color:black;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+    
+    
+
+}
+
+.textoSuperior{
+    left: 60px;
+    right: 50px;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(134, 134, 134);
+    font-weight:lighter;
+    
+    
+
+}
+
+
+
+.imagenProfesion{
+    
+    width: 30px;
+    top: 170px;
+    left: 20px;
+    position: relative;
+    
+    
+    
+}
+
+.imagenUbicacion{
+    
+    width: 20px;
+    top: 220px;
+    right: 12px;
+    position: relative;
+    
+
+    
+}
+
+.ImagenesOtras{
+    width: 90px;
+    top: 220px;
+    border-radius: 50%;
+    margin-top: 20PX;
+    box-shadow: rgba(17, 17, 26, 0.05) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 0px 8px;
+    margin-left: 19px;
+   
+    
+
+}
